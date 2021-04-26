@@ -1,3 +1,1 @@
-### Hi there 👋
-
 Maybe one day, I'll get around to write a proper bio... maybe...
