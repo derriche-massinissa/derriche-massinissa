@@ -15,4 +15,6 @@
 	<img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
 	<img src="https://img.shields.io/badge/neovim-2f9dda?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
 	<img src="https://img.shields.io/badge/lua-2c2d72?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/>
+	<img src="https://img.shields.io/badge/tensorflow-ff9000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
+	<img src="https://img.shields.io/badge/numpy-4c78d0?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
 </p>
